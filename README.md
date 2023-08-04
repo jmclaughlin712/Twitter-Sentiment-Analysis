@@ -1,3 +1,6 @@
+![image](https://github.com/jmclaughlin712/Twitter-Sentiment-Analysis/assets/126025563/ad439c03-25be-41f5-9b92-d414fe5a9113)
+
+
 This project aims to classify sentiment of a tweet as positive, negative, or neutral. It focuses on tweets related to Apple and Google products/brands, many of which came from the South by Southwest conference. Note that the tweets did not have datetime stamps, so the exact timing of the tweets is unknown. Many of them appear to be about 10 years old, and there are no references to newer products such as Airpods.
 
 The business application of our project is to help Apple identify what customers are complaining about and what areas Apple can improve in compared to Google. 
